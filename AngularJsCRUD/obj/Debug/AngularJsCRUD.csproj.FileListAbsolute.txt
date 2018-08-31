@@ -1,0 +1,10 @@
+E:\AngularJsCRUD\AngularJsCRUD\bin\AngularJsCRUD.dll
+E:\AngularJsCRUD\AngularJsCRUD\bin\AngularJsCRUD.pdb
+E:\AngularJsCRUD\AngularJsCRUD\obj\Debug\AngularJsCRUD.csprojResolveAssemblyReference.cache
+E:\AngularJsCRUD\AngularJsCRUD\obj\Debug\AngularJsCRUD.dll
+E:\AngularJsCRUD\AngularJsCRUD\obj\Debug\AngularJsCRUD.pdb
+C:\Users\jaskirat\Downloads\AngularJsCRUD\AngularJsCRUD\bin\AngularJsCRUD.dll
+C:\Users\jaskirat\Downloads\AngularJsCRUD\AngularJsCRUD\bin\AngularJsCRUD.pdb
+C:\Users\jaskirat\Downloads\AngularJsCRUD\AngularJsCRUD\obj\Debug\AngularJsCRUD.csprojResolveAssemblyReference.cache
+C:\Users\jaskirat\Downloads\AngularJsCRUD\AngularJsCRUD\obj\Debug\AngularJsCRUD.dll
+C:\Users\jaskirat\Downloads\AngularJsCRUD\AngularJsCRUD\obj\Debug\AngularJsCRUD.pdb
